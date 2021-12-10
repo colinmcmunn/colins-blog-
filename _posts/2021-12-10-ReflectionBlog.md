@@ -1,7 +1,7 @@
-#### Reflection
+# Reflection
 
 
-## My interpretation of DH
+### My interpretation of DH
 
 ---
 
@@ -9,7 +9,7 @@ To me, Digital Humanities is the sharing of digital information in a way that is
 
 I do feel however, that digital humanities does not get the respect it deserves. Realistically, it is so interesting. Being able to share these incredibly interactive projects and in depth research with the click of a button. I feel this is all so new, and DH will only keep improving. 
 
-## Projects
+### Projects
 
 ---
 
@@ -19,7 +19,7 @@ Looking back at this class, we worked on a variety of different projects, all fo
 
 Another project that I would like to reflect back on is the **Review 1** project. This project was especially intimidating. We were told to choose a DH project from a professional organization and review it, pointing out both the good and the bad. The only problem with this was I had no idea what separated a good project from a bad one. However, once things began to play out, and we had a few classes discussing what we should be looking for, the rest was simple.  
 
-## Readings
+### Readings
 
 Readings were a major part of this course, especially early on in the semester. We would have two or three readings a week, then discuss what we read in the following class. I actually enjoyed reading these little articles. One, because they were not overly long, and two, because it allowed for discussion in class. 
 
@@ -27,7 +27,7 @@ The reading that I found most interesting was the _Text Scanning Patterns: Eye T
 
 ![heatmap](https://colinmcmunn.github.io/colins-blog-/images/heatmap.png)
 
-## Twitter
+### Twitter
 
 ---
 
@@ -35,7 +35,7 @@ The next area of this course that I will be discussing is our twitter assignment
 
 Early in the semester, we had an abundance of information to discuss. From readings, to projects, and in class discussions. But as the semester progressed, and the readings started to go extinct, all we could really tweet about was the projects and class discussions. There would always be 3 possible ideas that we could tweet about, I just felt as if we began tweeting repetitive discussions, since there were no readings to tweet about. 
 
-## Conclusion
+### Conclusion
 
 ---
 
