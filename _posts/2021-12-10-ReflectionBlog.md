@@ -14,7 +14,7 @@ Looking back at this class, we worked on a variety of different projects, all fo
 
 <iframe width="960" height="729.2193308550186" data-original-width="1614" data-original-height="1226" src="https://www.thinglink.com/card/1499043654310821891" type="text/html" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling="no"></iframe><script async src="//cdn.thinglink.me/jse/responsive.js"></script>
 
-Another project that I would like to reflect back on is the **Review 1** project. This project was especially intimidating. We were told to choose a DH project from a professional organization and review it, pointing out both the good and the bad. The only problem with this was I had no idea what separated a good project from a bad one. However, once things began to play out, and we had a few classes discussing what we should be looking for, the rest was simple.  
+Another project that I would like to reflect back on is the **Review 1** project. This project was especially intimidating. We were told to choose a DH project from a professional organization and review it, pointing out both the good and the bad. The only prolem with this was I had no idea what separated a good project from a bad one. However, once things began to play out, and we had a few classes discussing what we should be looking for, the rest was simple.  
 
 ## Readings
 
