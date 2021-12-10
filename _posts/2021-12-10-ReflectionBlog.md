@@ -21,6 +21,8 @@ Another project that I would like to reflect back on is the **Review 1** project
 
 ### Readings
 
+---
+
 Readings were a major part of this course, especially early on in the semester. We would have two or three readings a week, then discuss what we read in the following class. I actually enjoyed reading these little articles. One, because they were not overly long, and two, because it allowed for discussion in class. 
 
 The reading that I found most interesting was the _Text Scanning Patterns: Eye Tracking Evidence_ reading. This article discussed various ways that the human mind will avoid reading. The mind will instead scan the reading. What is interesting about this is that there are all different types of different ways of scanning. For example, my mind scans through the spotted pattern. The spotted pattern is when the mind will choose specific words or phrases that stand out, due to being italicized, bolded, etc. and just read from there, skipping a majority of the writing. 
